@@ -1,0 +1,19 @@
+{
+  "guilds": {
+    "1256583574312980481": {
+      "registerChannel": "1256583574359117838",
+      "registerMessage": "test",
+      "registerRole": "1256583574359117836"
+    },
+    "1242880812190400542": {
+      "registerChannel": "1255441646217072670",
+      "registerMessage": "**Sunucumuza hoş geldin**",
+      "registerRole": "1255576577589383229"
+    },
+    "1256578362089144382": {
+      "registerChannel": "1266886297126174743",
+      "registerMessage": "31",
+      "registerRole": "1256578362109857871"
+    }
+  }
+}
